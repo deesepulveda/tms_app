@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tms_app/static/css/main.e20b470d.css",
+    "main.js": "/tms_app/static/js/main.32364b0d.js",
+    "static/js/787.0862a27c.chunk.js": "/tms_app/static/js/787.0862a27c.chunk.js",
+    "static/media/whimsylogo3-white.png": "/tms_app/static/media/whimsylogo3-white.9a743c2e57c05c0e2d59.png",
+    "index.html": "/tms_app/index.html",
+    "main.e20b470d.css.map": "/tms_app/static/css/main.e20b470d.css.map",
+    "main.32364b0d.js.map": "/tms_app/static/js/main.32364b0d.js.map",
+    "787.0862a27c.chunk.js.map": "/tms_app/static/js/787.0862a27c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e20b470d.css",
+    "static/js/main.32364b0d.js"
+  ]
+}
